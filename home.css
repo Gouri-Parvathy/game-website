@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.continer-1{
+    background-image: linear-gradient(181deg, #000 0.82%, #4A2800 129.1%);
+    /* background-image: url(./joy_stick\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right; */
+}
+
+.menu{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.menu-elements{
+    list-style-type: none;
+    display: flex;
+    gap: 88px;
+}
+.nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-logo{
+    padding-right: 566px;
+}
+.Contact{
+    border-radius: 6px;
+    background: #FA9021;
+    width: 131.771px;
+    height: 41.343px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+}
+.name{
+    color: #E87D0E;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 155.2%; /* 31.04px */
+    width: 161.061px;
+    margin: 0px;
+    padding-bottom: 17px;
+}
+.heading{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 155.2%; /* 77.6px */
+    width: 479.629px;
+    margin: 0px;
+    padding-bottom: 26px;
+    }
+.description{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 200%; /* 32px */
+    width: 527px;
+    height: 101px;
+    flex-shrink: 0;
+    margin:0px;
+    padding-bottom: 50px;
+}
+.get-more{
+    border-radius: 40px;
+    background: linear-gradient(92deg, #FA8305 2.08%, #FB9E3C 117.25%);
+    width: 195px;
+    height: 53px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    border-width: 0px;
+}
+.content{
+    margin-left: 147px;
+    margin-top: 121px;
+}
+.heading-1{
+    color: #FFF;
+    font-family: Rubik;
+    font-size: 31px;
+    font-weight: 700;
+    line-height: 187.5%; /* 58.125px */
+    padding-left: 147px;
+    padding-right: 603px;
+}
+.see{
+    color: #FFF;
+    font-family: Rubik;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 187.5%; /* 37.5px */
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.11);
+    width: 139px;
+    height: 57px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+.heading-game{
+    display: flex;
+    align-items: center;
+}
+.pic{
+    display: flex;
+    justify-content: center;
+    gap: 47px;
+}
+.fire{
+    display: flex;
+    margin-left: 187px;
+    justify-content: center;
+    align-items: center;
+}
+.fire-logo{
+    padding-right: 9px;
+    width: 25px;
+height: 25px;
+flex-shrink: 0;
+}
+.fire-name{
+    padding-right: 129px;
+    color: #FFF;
+    font-family: Rubik;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 187.5%; /* 41.25px */
+}
+.heading-2{
+    color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+line-height: 187.5%; /* 65.625px */
+width: 826px;
+}
+.sub-head{
+    color: #FFF;
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: 187.5%; /* 56.25px */
+width: 209px;
+height: 40px;
+flex-shrink: 0;
+}
+.desc{
+    color: #FFF;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 187.5%; /* 30px */
+width: 545px;
+height: 101px;
+flex-shrink: 0;
+}
+.continer-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.con-2{
+    margin-left: 147px;
+}
+
